@@ -1,8 +1,8 @@
-glass bed with thermal tape under it (removed the buildtak crap it came with, shame on them)
-micro swiss hot end (removed teh brass hot end it came with, shame on them)
-.4 nozzel
-upgraded the cooling end to (https://www.thingiverse.com/thing:1025471 again crap it came with shame on them)
-3d printed supports and added rods (https://www.thingiverse.com/thing:1549403, again crappy frame would wobbel)
+glass bed with thermal tape under it (removed the buildtak crap it came with)
+micro swiss hot end (removed the brass hot end it came with)
+.4 nozzele
+upgraded the cooling end to (https://www.thingiverse.com/thing:1025471)
+3d printed supports and added rods (https://www.thingiverse.com/thing:1549403)
 extended spool holder https://www.thingiverse.com/thing:1652770
 filement guide not sure which one
 glass plate holders not sure which ones but it has screws and sucks recommend ones that hold it with pressure
