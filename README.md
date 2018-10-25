@@ -1,3 +1,14 @@
+.ini files are for octoprint slicer
+
+
+
+.profile are for cura 3.2.1 (monoprice support said to use this one but really any of the as long as you dont use the gcode any of them ship with)
+
+
+below you will note my gcode spits out extra filament ... I just want to purge the hotend
+
+
+
 glass bed with thermal tape under it (removed the buildtak crap it came with)
 micro swiss hot end (removed the brass hot end it came with)
 .4 nozzele
@@ -6,6 +17,7 @@ upgraded the cooling end to (https://www.thingiverse.com/thing:1025471)
 extended spool holder https://www.thingiverse.com/thing:1652770
 filement guide not sure which one
 glass plate holders not sure which ones but it has screws and sucks recommend ones that hold it with pressure
+
 
 
 Wood Attempts (stuff came from mg chemicals 1.75mm smells good)
